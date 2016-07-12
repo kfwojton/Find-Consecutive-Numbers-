@@ -1,6 +1,7 @@
 
 
 #Run time O(n). Wait but there are too while statements shouldn't it be O(n^2)? The while statements are linked so no character gets checked twice. 
+#Space O(n)
 
 def find_consecutive_answers(listo):
     ab = 0
